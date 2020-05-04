@@ -26,7 +26,7 @@ For the Capstone project I have analysed and selected the best location for cons
 ___________________
 **Target Audience**
 
-The target audience of this project is any one who interested in contructing a shop mall but are facing dificulties in which neighborhood the mall to is to be contructed to attract the maximum customers.
+The target audience of this project is any one who interested in constructing a shop mall but are facing difficulties in which neighborhood the mall to is to be constructed to attract the maximum customers.
 
 ______________________________________
 **Data Collection**
